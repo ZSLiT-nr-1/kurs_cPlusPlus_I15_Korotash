@@ -3,6 +3,6 @@
 #include <iostream>
 int main() {
     std::cout << "Dziennik Campusu - wersja 0.1";
-    std::cout << "Srodowisko dziala. Mozemy programowac";
+    std::cout << "Srodowisko dziala. Mozemy programowaaaa";
     return 0;
 }
